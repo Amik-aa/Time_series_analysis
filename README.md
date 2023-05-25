@@ -1,1 +1,3 @@
-# Time_series_analysis
+Time series analysis involves studying and understanding the patterns and trends in data that varies over time. Visualizing time series data is an important step in gaining insights and making informed decisions. This repository focuses on some popular plotting and visualization techniques.
+Candlestick chart is one of them,widely used in financial analysis.They represent the high, low, open and close prices of a financial instrument at different time points. Candlestick chart are useful for visualizing price movements and identifying patterns in finacial markets. 
+Contributions to this repository are welcome! if you have any suggestions, improvements, or additional examples, please feel free to open an issue or submit a pull request.
